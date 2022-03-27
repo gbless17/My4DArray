@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StTl+PbNYZjNw7pMqFTJF7y6zG7H2rP0OAjV1nQ26eBWf+aeOIdEp12BgJoNLJ3c6iUyitWCrpQ+0TEqqhrdag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBLESS INC\\Documents\\C# Training class\\C Sharp Training class\\my4DArray\\Multilply matrix\\Multilply matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBLESS INC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

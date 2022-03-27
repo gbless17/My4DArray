@@ -1,0 +1,16 @@
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.exe
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.deps.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.runtimeconfig.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.runtimeconfig.dev.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\ref\3 by 3 array.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\bin\Debug\net5.0\3 by 3 array.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.csproj.AssemblyReference.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.AssemblyInfoInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.AssemblyInfo.cs
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.csproj.CoreCompileInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\ref\3 by 3 array.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\3 by 3 array\obj\Debug\net5.0\3 by 3 array.genruntimeconfig.cache

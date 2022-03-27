@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtIn7n3JY88x9Dc/A/3AxylWWggmhFXOW5O9DfdeFCZZCMU4lI9klMTYEW2dxqqhQyiGCjZrIiWcZC0+n4YhRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBLESS INC\\Documents\\C# Training class\\C Sharp Training class\\my4DArray\\my4DArray\\my4DArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBLESS INC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

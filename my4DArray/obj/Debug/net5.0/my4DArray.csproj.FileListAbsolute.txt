@@ -1,0 +1,16 @@
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.exe
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.deps.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.runtimeconfig.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.runtimeconfig.dev.json
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\ref\my4DArray.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\bin\Debug\net5.0\my4DArray.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.csproj.AssemblyReference.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.AssemblyInfoInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.AssemblyInfo.cs
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.csproj.CoreCompileInputs.cache
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\ref\my4DArray.dll
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.pdb
+C:\Users\GBLESS INC\Documents\C# Training class\C Sharp Training class\my4DArray\my4DArray\obj\Debug\net5.0\my4DArray.genruntimeconfig.cache
